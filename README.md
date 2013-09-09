@@ -8,10 +8,6 @@ Módulo Grunt para lanzar GAE Servers
 ## Getting Started
 Este plugin requiere Grunt `~0.4.1` y `Google App Engine SDK`.
 
-```js
-grunt.loadNpmTasks('grunt-gae');
-```
-
 Google App Engine SDK puede ser descargado de [Google App Engine Downloads](https://developers.google.com/appengine/downloads) page.
 
 ## The "gae" task
