@@ -20,7 +20,7 @@ grunt.initConfig({
   gaej: {
     options: {
         appengineSdkPath: 'C:/appengine-java-sdk-1.8.1.1/bin/dev_appserver.cmd',
-        warPath: 'C:/IGZ/workspace/bbva-onestopshop/war',
+        warPath: 'C:/war',
         address: '0.0.0.0',
         port: '8888'
     },
