@@ -1,0 +1,37 @@
+{
+  "name": "grunt-gaej",
+  "description": "Grunt gae java server launcher",
+  "version": "0.0.1",
+  "homepage": "https://github.com/",
+  "author": {
+    "name": "Eduardo Marín Izquierdo",
+    "email": "e.marin.izquierdo@gmail.com",
+    "url": "http://eduardomarin.es/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/"
+  },
+  "bin": {
+    "grunt-gaej": "bin/grunt-gaej"
+  },
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt": "~0.4.0"
+  },
+  "keywords": [
+    "gruntplugin",
+    "gae",
+    "java",
+    "server"
+  ],
+  "readme": "# grunt-gae-java-server\n",
+  "readmeFilename": "README.md",
+  "_id": "grunt-gaej@0.0.1",
+  "_from": "grunt-gaej@~0.0.1"
+}
