@@ -2,7 +2,7 @@
   "name": "grunt-gaej",
   "description": "Grunt gae java server launcher",
   "version": "0.0.1",
-  "homepage": "https://github.com/",
+  "homepage": "https://github.com/emarinizquierdo/grunt-gaej",
   "author": {
     "name": "Eduardo Marín Izquierdo",
     "email": "e.marin.izquierdo@gmail.com",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/"
+    "url": "git://github.com/emarinizquierdo/grunt-gaej"
   },
   "bin": {
     "grunt-gaej": "bin/grunt-gaej"
